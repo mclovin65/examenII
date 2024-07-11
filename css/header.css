@@ -1,0 +1,11 @@
+.contenedor{
+    width: 375px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cuadro{
+    width: 100px;
+    height: 25px;
+    background-color: gray;
+}
