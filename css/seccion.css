@@ -2,6 +2,7 @@
 .seccion{
     border: 1px solid black;
     max-width: 375px;
+    margin-top: 10px;
 }
 
 .seccion1{

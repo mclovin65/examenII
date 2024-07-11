@@ -1,10 +1,17 @@
+header{
+    max-width: 375px;
+    border: 1px solid black;
+
+}
 .contenedor{
+
     width: 375px;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
-.cuadro{
+.cuadro{ 
+    margin: 0px 5px;
     width: 100px;
     height: 25px;
     background-color: gray;

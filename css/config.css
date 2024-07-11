@@ -1,5 +1,6 @@
-body{
-
+.body{
+    margin-left: 380px;
+    max-width: 375px;
     align-items: center;
     justify-content: center;
 }
