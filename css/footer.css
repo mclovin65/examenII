@@ -1,0 +1,14 @@
+foooter{
+    max-width: 375px;
+    margin-top: 20px;
+
+}
+
+.fg{
+    margin-top: 10px;
+    width: 375px;
+       border: 1px solid black;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
